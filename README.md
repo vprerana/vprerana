@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create and explore new technologies. Here you'll find a collection of my work, projects, and contributions.
 
-![GitHub Banner] (https://drive.google.com/file/d/1oBqRxqM9Jt05D0ZPomob2sfLBHhgw5OM/view?usp=sharing)
-
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
