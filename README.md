@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=spring-boot)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
 ## 📫 How to Reach Me
