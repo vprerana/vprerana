@@ -1,4 +1,4 @@
-# Hi there, I'm [Prerana Venugopal] 👋
+# Hi there, I'm Prerana Venugopal👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create and explore new technologies. Here you'll find a collection of my work, projects, and contributions.
 
